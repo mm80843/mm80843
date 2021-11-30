@@ -1,3 +1,6 @@
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucjonveaux)
+[
+
 ### Hi there 👋
 
 I'm Luc. I work for Mott MacDonald in the Project Finance teams, and wear a digital delivery network leader hat. 
@@ -18,6 +21,12 @@ From a personal point of view, I'm into
 - understanding how stuff work
 - learning - big fan of MOOCs too =)
 
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mm80843&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm80843&exclude_repo=van_design&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 <!--
 **mm80843/mm80843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

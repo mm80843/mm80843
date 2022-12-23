@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Luc. I work for Mott MacDonald in the Project Finance teams, and wear a digital delivery network leader hat. 
+I'm Luc. I work for Mott MacDonald in the Advisory teams, and wear a digital delivery network leader hat. 
 
 I got back into coding in .. early 90s, testing BASIC on the Apple ][ my father used to write his thesis. Since, I've tested a few languages, broken a few things but hopefully built more.
 
